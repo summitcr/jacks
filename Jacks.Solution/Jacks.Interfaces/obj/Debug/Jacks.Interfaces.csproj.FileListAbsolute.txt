@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.Interfaces\bin\Debug\Jacks.Interfaces.dll
+C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.Interfaces\bin\Debug\Jacks.Interfaces.pdb
+C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.Interfaces\bin\Debug\Jacks.Models.dll
+C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.Interfaces\bin\Debug\Jacks.Models.pdb
+C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.Interfaces\obj\Debug\Jacks.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.Interfaces\obj\Debug\Jacks.Interfaces.dll
+C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.Interfaces\obj\Debug\Jacks.Interfaces.pdb
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.Interfaces\bin\Debug\Jacks.Interfaces.dll
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.Interfaces\bin\Debug\Jacks.Interfaces.pdb
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.Interfaces\bin\Debug\Jacks.Models.dll
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.Interfaces\bin\Debug\Jacks.Models.pdb
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.Interfaces\obj\Debug\Jacks.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.Interfaces\obj\Debug\Jacks.Interfaces.dll
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.Interfaces\obj\Debug\Jacks.Interfaces.pdb
