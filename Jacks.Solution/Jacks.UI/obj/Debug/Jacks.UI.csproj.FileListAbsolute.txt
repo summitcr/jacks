@@ -15,8 +15,6 @@ C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.UI\bin\Debug\
 C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.UI\bin\Debug\Newtonsoft.Json.xml
 C:\Users\gusta\OneDrive\Documents\PoyectoCAJA\Jacks.Solution\Jacks.UI\bin\Debug\MarkdownLog.dll
 C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\bin\Debug\Jacks.UI.exe.config
-C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\obj\Debug\Jacks.UI.exe
-C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\obj\Debug\Jacks.UI.pdb
 C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\bin\Debug\Jacks.UI.exe
 C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\bin\Debug\Jacks.UI.pdb
 C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\bin\Debug\ConsoleTableExt.dll
@@ -30,3 +28,5 @@ C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\bin\Debug\Jacks.
 C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\bin\Debug\Jacks.Services.pdb
 C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\bin\Debug\Newtonsoft.Json.xml
 C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\obj\Debug\Jacks.UI.csprojResolveAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\obj\Debug\Jacks.UI.exe
+C:\Users\gusta\OneDrive\Documents\Jacks\Jacks.Solution\Jacks.UI\obj\Debug\Jacks.UI.pdb
